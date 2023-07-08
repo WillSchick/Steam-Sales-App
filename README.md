@@ -1,11 +1,6 @@
 # Steam-Sales-Scraper
-A web scraper that finds the current cheapest games on steam and returns them in a simple and readable CSV format.
+A web scraper that finds the current cheapest games on steam and returns them in a text file for your convenience
 
 Requires:
 - bs4
-- html5lib
 - requests
-
-
-
-(WORK IN PROGRESS)
