@@ -1,12 +1,9 @@
 from bs4 import BeautifulSoup as bs
+import pandas
 import requests
 import sys
 from datetime import date
-
-# Open a txtfile to write to
-currDate = date.today()
-currDateFormatted = str(currDate.month) + "-" + str(currDate.day) + "-" + str(currDate.year)  
-sys.stdout = open("SteamSales_" + currDateFormatted  + ".txt", "w")
+import csv
 
 # URL
 url = "https://store.steampowered.com/search/?specials=1&os=win"
@@ -18,20 +15,37 @@ data = requests.get(url)
 html = bs(data.text, "html.parser")
 games = html.select("div.responsive_search_name_combined")
 
+# Assemble our headers for our CSV output
+headers = ["Game Title", "Discount", "Original Price", "Discounted Price"]
+records = [] # Records for our CSV output
+
 for game in games:
-    title = game.select("span.title")[0].get_text()
-    discount = game.select("div.col.search_discount.responsive_secondrow")[0].get_text().strip()
+    newRecord = {}
+    newRecord["Game Title"] = game.select("span.title")[0].get_text()
+    newRecord["Discount"] = game.select("div.col.search_discount.responsive_secondrow")[0].get_text().strip()
 
     # Sometimes games that aren't on sale appear. Ignore these
     if len(game.select("div.col.search_price.discounted.responsive_secondrow")) < 1:
         continue
     else:
         prices = game.select("div.col.search_price.discounted.responsive_secondrow")[0].get_text().strip().split("$")
-        price = "$" + prices[1]
-        newPrice = "$" + prices[2]
+        newRecord["Original Price"] = ("$" + prices[1])
+        newRecord["Discounted Price"] = ("$" + prices[2])
+    
+    # Add new Record to Table for CSV
+    records.append(newRecord)
 
-    print("{: >60}: {: >8} -> ({: >5}) -> {: >8} \
-          ".format(title, price, discount, newPrice))
 
-# Now that we've printed to this new file, close it up
-sys.stdout.close()
+# Now we're on to writing our output. Let's get the date
+currDate = date.today()
+currDateFormatted = str(currDate.month) + "-" + str(currDate.day) + "-" + str(currDate.year)  
+
+# create a CSV
+with open("SteamSales_" + currDateFormatted + ".csv", "w+", encoding="utf-8") as csvFile:
+    writer = csv.DictWriter(csvFile, fieldnames=headers)
+    writer.writeheader()
+    writer.writerows(records)
+
+# create a text file with a beautified table output from our csv using panda
+with open("SteamSales_" + currDateFormatted + ".txt", "w+", encoding="utf-8") as txtFile:
+    txtFile.write(pandas.read_csv("SteamSales_" + currDateFormatted + ".csv", encoding="utf-8").to_markdown(index=False))
