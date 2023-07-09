@@ -48,4 +48,7 @@ with open("SteamSales_" + currDateFormatted + ".csv", "w+", encoding="utf-8") as
 
 # create a text file with a beautified table output from our csv using panda
 with open("SteamSales_" + currDateFormatted + ".txt", "w+", encoding="utf-8") as txtFile:
-    txtFile.write(pandas.read_csv("SteamSales_" + currDateFormatted + ".csv", encoding="utf-8").to_markdown(index=False))
+    dataFrame = pandas.read_csv("SteamSales_" + currDateFormatted + ".csv", encoding="utf-8")
+    dataFrame = dataFrame.sort_values(by="Discount", ascending=False)
+    txtFile.write(dataFrame.to_markdown(index=False));
+    #txtFile.write(pandas.read_csv("SteamSales_" + currDateFormatted + ".csv", encoding="utf-8").to_markdown(index=False))
