@@ -69,8 +69,8 @@ for element in games:
         continue
 
     # Store Prices
-    newRecord["Original Price"] = prices[0]
-    newRecord["Discounted Price"] = prices[1] 
+    newRecord["Original Price"] = prices[0].strip()
+    newRecord["Discounted Price"] = prices[1].strip()
 
     # Add new Record to Table for CSV
     records.append(newRecord)
@@ -81,7 +81,7 @@ currDateFormatted = str(currDate.month) + "-" + str(currDate.day) + "-" + str(cu
 
 # create a CSV
 with open("SteamSales_" + currDateFormatted + ".csv", "w+", encoding="utf-8") as csvFile:
-    writer = csv.DictWriter(csvFile, fieldnames=headers)
+    writer = csv.DictWriter(csvFile, fieldnames=headers, lineterminator='\n')
     writer.writeheader()
     writer.writerows(records)
 
