@@ -5,3 +5,4 @@ Requires:
 - python3
 - selenium
 - pandas
+- tabulate
