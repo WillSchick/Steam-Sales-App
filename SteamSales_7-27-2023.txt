@@ -1,0 +1,302 @@
+| Game Title                                                                     | Discount   | Original Price   | Discounted Price   |
+|:-------------------------------------------------------------------------------|:-----------|:-----------------|:-------------------|
+| Borderlands: The Handsome Collection                                           | -94%       | $229.48          | $14.32             |
+| Sid Meier's Civilization® VI: Persia and Macedon Civilization & Scenario Pack  | -91%       | $167.91          | $14.53             |
+| Sid Meier's Civilization® VI: Khmer and Indonesia Civilization & Scenario Pack | -91%       | $167.91          | $14.53             |
+| Sid Meier's Civilization VI : Platinum Edition                                 | -91%       | $167.91          | $14.54             |
+| Sid Meier's Civilization® VI: Australia Civilization & Scenario Pack           | -91%       | $167.91          | $14.53             |
+| Sid Meier’s Civilization® VI                                                   | -90%       | $59.99           | $5.99              |
+| Sniper Elite 4                                                                 | -90%       | $59.99           | $5.99              |
+| Borderlands: The Pre-Sequel                                                    | -90%       | $39.99           | $3.99              |
+| Sniper Elite 3                                                                 | -90%       | $29.99           | $2.99              |
+| SOULCALIBUR VI                                                                 | -90%       | $59.99           | $5.99              |
+| The Deus Ex Collection                                                         | -89%       | $88.94           | $9.55              |
+| Borderlands 3 Ultimate Edition                                                 | -89%       | $254.80          | $28.56             |
+| Sid Meier's Civilization® VI: Gathering Storm                                  | -88%       | $39.99           | $4.79              |
+| Sniper Elite Complete Pack                                                     | -87%       | $132.96          | $17.54             |
+| Resident Evil Revelations 2                                                    | -87%       | $5.99            | $0.77              |
+| Ultra Street Fighter® IV                                                       | -87%       | $29.99           | $3.89              |
+| Sid Meier’s Civilization® VI Anthology                                         | -86%       | $209.85          | $29.72             |
+| Watch_Dogs™                                                                    | -85%       | $29.99           | $4.49              |
+| Assassin's Creed® Origins                                                      | -85%       | $59.99           | $8.99              |
+| Batman: Arkham Collection                                                      | -85%       | $59.99           | $8.99              |
+| DRAGON BALL XENOVERSE 2                                                        | -85%       | $49.99           | $7.49              |
+| Borderlands 3                                                                  | -85%       | $59.99           | $8.99              |
+| Far Cry® 5                                                                     | -85%       | $59.99           | $8.99              |
+| Thief                                                                          | -85%       | $19.99           | $2.99              |
+| Deus Ex: Mankind Divided                                                       | -85%       | $29.99           | $4.49              |
+| Thief Simulator                                                                | -85%       | $19.99           | $2.99              |
+| Outlast                                                                        | -85%       | $19.99           | $2.99              |
+| Watch_Dogs® 2                                                                  | -85%       | $49.99           | $7.49              |
+| Aragami                                                                        | -85%       | $19.99           | $2.99              |
+| Sniper Ghost Warrior Contracts 2 Complete Edition                              | -85%       | $128.78          | $18.84             |
+| Watch Dogs®: Legion                                                            | -85%       | $59.99           | $8.99              |
+| Dragon's Dogma: Dark Arisen                                                    | -84%       | $29.99           | $4.79              |
+| More Spore                                                                     | -83%       | $59.97           | $9.91              |
+| Sid Meier’s Civilization® VI: Rise and Fall                                    | -83%       | $29.99           | $5.09              |
+| Sniper Ghost Warrior Contracts 1 & 2 Double Pack                               | -81%       | $69.98           | $13.58             |
+| Frostpunk                                                                      | -80%       | $29.99           | $5.99              |
+| Sniper Ghost Warrior Contracts                                                 | -80%       | $29.99           | $5.99              |
+| Far Cry Bundle                                                                 | -80%       | $274.91          | $54.14             |
+| SPORE™                                                                         | -80%       | $19.99           | $3.99              |
+| Ni no Kuni Wrath of the White Witch™ Remastered                                | -80%       | $49.99           | $9.99              |
+| Marvel vs. Capcom: Infinite                                                    | -80%       | $39.99           | $7.99              |
+| Alien: Isolation                                                               | -80%       | $39.99           | $7.99              |
+| Frostpunk: Game of the Year Edition                                            | -80%       | $64.96           | $12.75             |
+| Streets of Rogue                                                               | -80%       | $19.99           | $3.99              |
+| Far Cry® 4                                                                     | -80%       | $29.99           | $5.99              |
+| Far Cry® New Dawn                                                              | -80%       | $39.99           | $7.99              |
+| FOR HONOR™                                                                     | -80%       | $14.99           | $2.99              |
+| Tom Clancy's Ghost Recon® Breakpoint                                           | -80%       | $59.99           | $11.99             |
+| Batman™: Arkham Knight                                                         | -80%       | $19.99           | $3.99              |
+| Heat Signature                                                                 | -80%       | $14.99           | $2.99              |
+| Assassin's Creed® Odyssey                                                      | -80%       | $59.99           | $11.99             |
+| Tom Clancy's Ghost Recon® Wildlands                                            | -80%       | $49.99           | $9.99              |
+| A Plague Tale: Innocence                                                       | -80%       | $39.99           | $7.99              |
+| HOT WHEELS UNLEASHED™                                                          | -80%       | $49.99           | $9.99              |
+| Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition                           | -80%       | $29.99           | $5.99              |
+| Pathfinder: Kingmaker - Enhanced Plus Edition                                  | -80%       | $19.99           | $3.99              |
+| Borderlands 2 Game of the Year                                                 | -80%       | $39.99           | $7.99              |
+| Assassin's Creed Bundle                                                        | -79%       | $414.88          | $87.86             |
+| FIGHTING SUMMER PACK                                                           | -78%       | $134.96          | $29.93             |
+| Budget Cuts Complete Set                                                       | -78%       | $59.98           | $13.48             |
+| Splinter Cell Franchise                                                        | -78%       | $79.95           | $17.95             |
+| Pathfinder: Kingmaker - Imperial Edition Bundle                                | -78%       | $46.95           | $10.28             |
+| Assassin's Creed™: Director's Cut Edition                                      | -75%       | $19.99           | $4.99              |
+| Battlefield 4™                                                                 | -75%       | $39.99           | $9.99              |
+| Assassin's Creed® III Remastered                                               | -75%       | $39.99           | $9.99              |
+| Tom Clancy's Splinter Cell Chaos Theory®                                       | -75%       | $9.99            | $2.49              |
+| Resident Evil 6                                                                | -75%       | $29.99           | $7.49              |
+| Battlefield™ 1                                                                 | -75%       | $39.99           | $9.99              |
+| Resident Evil 2                                                                | -75%       | $39.99           | $9.99              |
+| Far Cry 3                                                                      | -75%       | $19.99           | $4.99              |
+| Tom Clancy’s Splinter Cell Blacklist                                           | -75%       | $29.99           | $7.49              |
+| Batman™: Arkham Origins                                                        | -75%       | $19.99           | $4.99              |
+| Battlefield™ V                                                                 | -75%       | $49.99           | $12.49             |
+| Cook, Serve, Delicious! 3?!                                                    | -75%       | $19.99           | $4.99              |
+| Tom Clancy's Splinter Cell Conviction™ Deluxe Edition                          | -75%       | $19.99           | $4.99              |
+| Assassin's Creed 2                                                             | -75%       | $19.99           | $4.99              |
+| Dragon Age™ Inquisition                                                        | -75%       | $39.99           | $9.99              |
+| Kerbal Space Program                                                           | -75%       | $39.99           | $9.99              |
+| Sniper Elite V2 Remastered                                                     | -75%       | $34.99           | $8.74              |
+| Resident Evil 5                                                                | -75%       | $19.99           | $4.99              |
+| Assassin’s Creed® Brotherhood                                                  | -75%       | $19.99           | $4.99              |
+| Weird West: Definitive Edition                                                 | -75%       | $39.99           | $9.99              |
+| Far Cry® Primal                                                                | -75%       | $29.99           | $7.49              |
+| Little Nightmares                                                              | -75%       | $19.99           | $4.99              |
+| Far Cry 3 - Blood Dragon                                                       | -75%       | $14.99           | $3.74              |
+| 112 Operator                                                                   | -75%       | $24.99           | $6.24              |
+| Borderlands 2                                                                  | -75%       | $19.99           | $4.99              |
+| Resident Evil 0                                                                | -75%       | $19.99           | $4.99              |
+| BioShock Infinite                                                              | -75%       | $29.99           | $7.49              |
+| Grim Dawn                                                                      | -75%       | $24.99           | $6.24              |
+| Assassin's Creed® Unity                                                        | -75%       | $29.99           | $7.49              |
+| Mass Effect™ Legendary Edition                                                 | -75%       | $59.99           | $14.99             |
+| Black Mesa                                                                     | -75%       | $19.99           | $4.99              |
+| RESIDENT EVIL 2 / BIOHAZARD RE:2 Deluxe Edition                                | -75%       | $49.99           | $12.49             |
+| Budget Cuts                                                                    | -75%       | $29.99           | $7.49              |
+| Tom Clancy's Splinter Cell®                                                    | -75%       | $9.99            | $2.49              |
+| Ancestors: The Humankind Odyssey                                               | -75%       | $39.99           | $9.99              |
+| Resident Evil 4 (2005)                                                         | -75%       | $19.99           | $4.99              |
+| Batman: Arkham City - Game of the Year Edition                                 | -75%       | $19.99           | $4.99              |
+| Far Cry® 6                                                                     | -75%       | $59.99           | $14.99             |
+| Assassin's Creed Valhalla                                                      | -75%       | $59.99           | $14.99             |
+| Ghost of a Tale                                                                | -75%       | $19.99           | $4.99              |
+| Sniper Ghost Warrior Contracts 2                                               | -75%       | $39.99           | $9.99              |
+| Titanfall® 2                                                                   | -75%       | $29.99           | $7.49              |
+| Assassin's Creed® Syndicate                                                    | -75%       | $29.99           | $7.49              |
+| Assassin's Creed Freedom Cry                                                   | -75%       | $14.99           | $3.74              |
+| STAR WARS™ Battlefront™ II                                                     | -75%       | $39.99           | $9.99              |
+| Resident Evil 3                                                                | -75%       | $39.99           | $9.99              |
+| Children of Morta                                                              | -75%       | $21.99           | $5.49              |
+| DRAGON BALL Z: KAKAROT                                                         | -75%       | $59.99           | $14.99             |
+| Grand Theft Auto V: Premium Edition & Whale Shark Card Bundle                  | -73%       | $89.97           | $24.74             |
+| GreedFall                                                                      | -72%       | $34.99           | $9.79              |
+| Kerbal Space Program Complete Edition                                          | -71%       | $69.97           | $19.98             |
+| Dragon Age: Origins - Ultimate Edition                                         | -70%       | $29.99           | $8.99              |
+| Dragon Age II: Ultimate Edition                                                | -70%       | $29.99           | $8.99              |
+| Little Nightmares I & II                                                       | -70%       | $63.93           | $19.43             |
+| Assassin's Creed® Revelations                                                  | -70%       | $19.99           | $5.99              |
+| Banners of Ruin                                                                | -70%       | $19.99           | $5.99              |
+| Train Sim World® 3                                                             | -70%       | $49.99           | $14.99             |
+| Void Bastards                                                                  | -70%       | $29.99           | $8.99              |
+| Patron                                                                         | -70%       | $19.99           | $5.99              |
+| Complete Thief Bundle                                                          | -70%       | $26.98           | $8.04              |
+| Generation Zero®                                                               | -70%       | $24.99           | $7.49              |
+| The Cook Serve Series Bundle                                                   | -70%       | $72.96           | $21.53             |
+| The Witcher 3: Wild Hunt - Complete Edition                                    | -70%       | $49.99           | $14.99             |
+| ULTIMATE MARVEL VS. CAPCOM 3                                                   | -70%       | $24.99           | $7.49              |
+| Assassin’s Creed® IV Black Flag™                                               | -70%       | $39.99           | $11.99             |
+| Assassin’s Creed® Rogue                                                        | -70%       | $19.99           | $5.99              |
+| Battlefield™ 2042                                                              | -70%       | $59.99           | $17.99             |
+| Operator's Pack                                                                | -70%       | $169.82          | $50.29             |
+| SOMA                                                                           | -70%       | $29.99           | $8.99              |
+| The Witcher® 3: Wild Hunt                                                      | -70%       | $39.99           | $11.99             |
+| Frictional Collection                                                          | -68%       | $134.94          | $43.34             |
+| Call of Duty®: WWII                                                            | -67%       | $59.99           | $19.79             |
+| Street Fighter 30th Anniversary Collection                                     | -67%       | $29.99           | $9.89              |
+| Call of Duty®: Infinite Warfare                                                | -67%       | $59.99           | $19.79             |
+| Red Dead Redemption 2                                                          | -67%       | $59.99           | $19.79             |
+| PGA TOUR 2K23                                                                  | -67%       | $59.99           | $19.79             |
+| Call of Duty®: Black Ops III                                                   | -67%       | $59.99           | $19.79             |
+| Call of Duty®: Ghosts                                                          | -67%       | $59.99           | $19.79             |
+| Borderlands Game of the Year                                                   | -67%       | $29.99           | $9.89              |
+| Call of Duty®: Black Ops III - Zombies Chronicles                              | -67%       | $29.99           | $9.89              |
+| Call of Duty®: Black Ops II                                                    | -67%       | $59.99           | $19.79             |
+| Call of Duty®: Modern Warfare®                                                 | -67%       | $59.99           | $19.79             |
+| Devil May Cry HD Collection                                                    | -67%       | $29.99           | $9.89              |
+| Little Nightmares II                                                           | -67%       | $29.99           | $9.89              |
+| Devil May Cry 5                                                                | -67%       | $29.99           | $9.89              |
+| Call of Duty®: Advanced Warfare - Gold Edition                                 | -67%       | $59.99           | $19.79             |
+| The Quarry                                                                     | -67%       | $59.99           | $19.79             |
+| Tiny Tina's Wonderlands                                                        | -67%       | $59.99           | $19.79             |
+| Call of Duty®: Black Ops Cold War                                              | -67%       | $59.99           | $19.79             |
+| Midnight Ghost Hunt                                                            | -66%       | $19.99           | $6.79              |
+| Sniper Elite 5                                                                 | -66%       | $49.99           | $16.99             |
+| Half-Life: Alyx                                                                | -66%       | $59.99           | $20.39             |
+| Tales of Arise                                                                 | -65%       | $84.99           | $29.74             |
+| Cloudpunk                                                                      | -65%       | $19.99           | $6.99              |
+| Command & Conquer™ Remastered Collection                                       | -65%       | $19.99           | $6.99              |
+| Grand Theft Auto V                                                             | -63%       | $39.98           | $14.99             |
+| Grand Theft Auto V: Premium Edition                                            | -63%       | $39.98           | $14.99             |
+| Mutant Year Zero: Road to Eden                                                 | -60%       | $34.99           | $13.99             |
+| Per Aspera                                                                     | -60%       | $29.99           | $11.99             |
+| Stick Fight: The Game                                                          | -60%       | $4.99            | $1.99              |
+| Overcooked! All You Can Eat                                                    | -60%       | $39.99           | $15.99             |
+| Dead by Daylight                                                               | -60%       | $19.99           | $7.99              |
+| Resident Evil 7 Biohazard                                                      | -60%       | $19.99           | $7.99              |
+| Aliens: Fireteam Elite                                                         | -60%       | $29.99           | $11.99             |
+| Hunt: Showdown                                                                 | -60%       | $39.99           | $15.99             |
+| Insurgency: Sandstorm                                                          | -60%       | $29.99           | $11.99             |
+| Aragami 2                                                                      | -60%       | $34.99           | $13.99             |
+| Marvel's Midnight Suns                                                         | -60%       | $59.99           | $23.99             |
+| MONSTER HUNTER RISE                                                            | -60%       | $39.99           | $15.99             |
+| Generation Zero ® - Ultimate Bundle                                            | -60%       | $87.86           | $35.08             |
+| Mafia: Definitive Edition                                                      | -60%       | $59.99           | $23.99             |
+| Tom Clancy's Rainbow Six® Siege                                                | -60%       | $19.99           | $7.99              |
+| Gang Beasts                                                                    | -60%       | $19.99           | $7.99              |
+| The Sims™ 4 Decorator's Dream Bundle                                           | -58%       | $69.97           | $29.08             |
+| The Sims™ 4 Pet Lovers Bundle                                                  | -58%       | $69.97           | $29.08             |
+| The Sims™ 4 Everyday Sims Bundle                                               | -58%       | $69.97           | $29.08             |
+| Aliens: Fireteam Elite - Ultimate Edition                                      | -57%       | $79.93           | $34.24             |
+| Chernobylite Enhanced Edition                                                  | -55%       | $29.99           | $13.49             |
+| Grim Dawn Definitive Edition                                                   | -53%       | $64.96           | $30.78             |
+| Call of Duty® Franchise Collection                                             | -53%       | $1,069.60        | $501.23            |
+| Dead by Daylight: Ultimate Edition                                             | -52%       | $79.97           | $38.25             |
+| Hunt: Showdown - Deluxe Edition                                                | -51%       | $60.95           | $29.92             |
+| Brewpub Simulator                                                              | -51%       | $27.98           | $13.84             |
+| Monster Hunter World: Iceborne                                                 | -50%       | $39.99           | $19.99             |
+| Call of Duty®: Vanguard                                                        | -50%       | $59.99           | $29.99             |
+| Street Fighter V                                                               | -50%       | $19.99           | $9.99              |
+| Call of Duty®: Modern Warfare® Remastered (2017)                               | -50%       | $39.99           | $19.99             |
+| Resident Evil 7 Gold Edition & Village Gold Edition                            | -50%       | $79.99           | $39.99             |
+| The Sims™ 4 Island Living                                                      | -50%       | $39.99           | $19.99             |
+| MELTY BLOOD: TYPE LUMINA                                                       | -50%       | $49.99           | $24.99             |
+| Monster Hunter Stories 2: Wings of Ruin                                        | -50%       | $39.99           | $19.99             |
+| Out of the Park Baseball 24                                                    | -50%       | $39.99           | $19.99             |
+| Detroit: Become Human                                                          | -50%       | $39.99           | $19.99             |
+| Resident Evil Village                                                          | -50%       | $39.99           | $19.99             |
+| Mini Metro                                                                     | -50%       | $9.99            | $4.99              |
+| HITMAN 3                                                                       | -50%       | $69.99           | $34.99             |
+| Capcom Fighting Collection                                                     | -50%       | $39.99           | $19.99             |
+| Dying Light 2 Stay Human                                                       | -50%       | $59.99           | $29.99             |
+| Sword and Fairy 7                                                              | -50%       | $29.99           | $14.99             |
+| Transport & Delivery Bundle                                                    | -50%       | $35.96           | $18.07             |
+| Two Point Campus                                                               | -50%       | $29.99           | $14.99             |
+| Heavenly Bodies                                                                | -50%       | $19.99           | $9.99              |
+| Warhammer 40,000: Chaos Gate - Daemonhunters                                   | -50%       | $44.99           | $22.49             |
+| Monster Hunter: World                                                          | -50%       | $29.99           | $14.99             |
+| The Sims™ 4 Get Together                                                       | -50%       | $39.99           | $19.99             |
+| The Sims™ 4 Eco Lifestyle                                                      | -50%       | $39.99           | $19.99             |
+| 60 Seconds! Reatomized                                                         | -50%       | $9.99            | $4.99              |
+| The Sims™ 4 Get Famous                                                         | -50%       | $39.99           | $19.99             |
+| The Miniverse Collection                                                       | -50%       | $19.98           | $9.98              |
+| Call of Duty®: Black Ops                                                       | -50%       | $39.99           | $19.99             |
+| The Sims™ 4 Discover University                                                | -50%       | $39.99           | $19.99             |
+| EA SPORTS™ PGA TOUR™                                                           | -50%       | $69.99           | $34.99             |
+| The Sims™ 4 Seasons                                                            | -50%       | $39.99           | $19.99             |
+| The Sims™ 4 Get To Work                                                        | -50%       | $39.99           | $19.99             |
+| MELTY BLOOD: TYPE LUMINA - Deluxe Edition                                      | -50%       | $69.98           | $34.98             |
+| This Land Is My Land                                                           | -50%       | $29.99           | $14.99             |
+| Call of Duty®: Modern Warfare® 3                                               | -50%       | $39.99           | $19.99             |
+| Monster Hunter World: Iceborne Master Edition Digital Deluxe                   | -50%       | $69.97           | $34.97             |
+| Monster Hunter World: Iceborne Master Edition                                  | -50%       | $59.98           | $29.98             |
+| The Sims™ 4 Cottage Living Expansion Pack                                      | -50%       | $39.99           | $19.99             |
+| The Sims™ 4 Cats & Dogs                                                        | -50%       | $39.99           | $19.99             |
+| The Sims™ 4 City Living                                                        | -50%       | $39.99           | $19.99             |
+| A Plague Tale: Requiem                                                         | -50%       | $49.99           | $24.99             |
+| Intruder                                                                       | -50%       | $19.99           | $9.99              |
+| Two Point Campus - Brainy Bundle                                               | -48%       | $50.96           | $26.51             |
+| Hunt: Showdown - Collector's Edition                                           | -47%       | $411.55          | $217.19            |
+| WWE 2K23                                                                       | -45%       | $59.99           | $32.99             |
+| SnowRunner                                                                     | -45%       | $29.99           | $16.49             |
+| Heavenly Bodies - Cleanup DLC Edition                                          | -45%       | $27.98           | $15.46             |
+| Warhammer 40,000: Chaos Gate - Daemonhunters - Grand Master Edition            | -45%       | $89.96           | $49.91             |
+| GoreBox                                                                        | -40%       | $4.99            | $2.99              |
+| ONE PIECE ODYSSEY                                                              | -40%       | $59.99           | $35.99             |
+| Dead by Daylight - Survivor Expansion Pack                                     | -40%       | $29.99           | $17.99             |
+| WILD HEARTS™                                                                   | -40%       | $69.99           | $41.99             |
+| F1® 23                                                                         | -40%       | $89.99           | $53.99             |
+| Dead by Daylight - Killer Expansion Pack                                       | -40%       | $29.99           | $17.99             |
+| The Sims™ 4 High School Years Expansion Pack                                   | -38%       | $39.99           | $24.79             |
+| SnowRunner - 3-Year Anniversary Edition                                        | -37%       | $104.96          | $66.53             |
+| Barony                                                                         | -35%       | $14.99           | $9.74              |
+| Against the Storm                                                              | -35%       | $29.99           | $19.49             |
+| Monster Hunter Rise + Sunbreak                                                 | -34%       | $59.99           | $39.59             |
+| Doki Doki Literature Club Plus!                                                | -33%       | $14.99           | $10.04             |
+| Friends vs Friends                                                             | -33%       | $9.99            | $6.69              |
+| Necesse                                                                        | -33%       | $9.99            | $6.69              |
+| Dead Space                                                                     | -30%       | $59.99           | $41.99             |
+| Dead by Daylight - Resident Evil: PROJECT W Chapter                            | -30%       | $11.99           | $8.39              |
+| The Sims™ 4 Parenthood                                                         | -30%       | $19.99           | $13.99             |
+| Dead by Daylight - Sadako Rising Chapter                                       | -30%       | $6.99            | $4.89              |
+| Warhammer 40,000: Chaos Gate - Daemonhunters - Duty Eternal                    | -30%       | $14.99           | $10.49             |
+| Perfect Heist 2                                                                | -30%       | $9.99            | $6.99              |
+| Among Us                                                                       | -30%       | $4.99            | $3.49              |
+| Generation Zero® - Motorbikes Pack                                             | -30%       | $6.99            | $4.89              |
+| Dead By Daylight - Silent Hill Chapter                                         | -30%       | $6.99            | $4.89              |
+| Dead by Daylight - Resident Evil Chapter                                       | -30%       | $11.99           | $8.39              |
+| Gas Station Simulator                                                          | -28%       | $19.99           | $14.39             |
+| Grim Dawn - Ashes of Malmouth Expansion                                        | -25%       | $17.99           | $13.49             |
+| Deadlink                                                                       | -25%       | $19.99           | $14.99             |
+| The Sims™ 4 Growing Together Expansion Pack                                    | -25%       | $39.99           | $29.99             |
+| Gloomwood                                                                      | -25%       | $19.99           | $14.99             |
+| Grim Dawn - Forgotten Gods Expansion                                           | -25%       | $15.99           | $11.99             |
+| Deceive Inc.                                                                   | -25%       | $19.99           | $14.99             |
+| Call of Duty®: Modern Warfare® 2 (2009)                                        | -25%       | $19.99           | $14.99             |
+| Call of Duty: World at War                                                     | -25%       | $19.99           | $14.99             |
+| Mini Motorways                                                                 | -25%       | $9.99            | $7.49              |
+| Old World                                                                      | -25%       | $39.99           | $29.99             |
+| Travellers Rest                                                                | -25%       | $14.99           | $11.24             |
+| Monster Hunter Rise: Sunbreak                                                  | -25%       | $39.99           | $29.99             |
+| Xenonauts 2                                                                    | -25%       | $39.99           | $29.99             |
+| Shadows of Doubt                                                               | -20%       | $19.99           | $15.99             |
+| Lunacy: Saint Rhodes                                                           | -20%       | $19.99           | $15.99             |
+| Cooking Simulator                                                              | -20%       | $19.99           | $15.99             |
+| Aliens: Dark Descent                                                           | -20%       | $39.99           | $31.99             |
+| Crimson Tactics: The Rise of The White Banner                                  | -20%       | $29.99           | $23.99             |
+| Starsiege: Deadzone Ultimate Founder's Pack                                    | -20%       | $49.99           | $39.99             |
+| Warhammer 40,000: Boltgun                                                      | -20%       | $21.99           | $17.59             |
+| Wobbly Life                                                                    | -20%       | $14.99           | $11.99             |
+| ΔV: Rings of Saturn                                                            | -20%       | $9.99            | $7.99              |
+| Killer Frequency                                                               | -20%       | $24.99           | $19.99             |
+| Two Point Campus: Space Academy                                                | -20%       | $9.99            | $7.99              |
+| Roots of Pacha                                                                 | -15%       | $24.99           | $21.24             |
+| Delivery INC                                                                   | -15%       | $14.99           | $12.74             |
+| Only Climb: Better Together                                                    | -15%       | $4.99            | $4.24              |
+| Amnesia: The Bunker                                                            | -15%       | $24.99           | $21.24             |
+| Thief Simulator - Luxury Houses DLC                                            | -15%       | $6.99            | $5.94              |
+| Koa and the Five Pirates of Mara                                               | -15%       | $19.99           | $16.99             |
+| Arcadian Atlas                                                                 | -15%       | $29.99           | $25.49             |
+| The Banished Vault                                                             | -10%       | $24.99           | $22.49             |
+| The Ninja Saviors: Return of the Warriors                                      | -10%       | $19.99           | $17.99             |
+| Grand Emprise: Time Travel Survival                                            | -10%       | $19.99           | $17.99             |
+| Arma 3 Creator DLC: Spearhead 1944                                             | -10%       | $17.99           | $16.19             |
+| Trepang2                                                                       | -10%       | $29.99           | $26.99             |
+| Komorebi                                                                       | -10%       | $19.99           | $17.99             |
+| Double Dragon Gaiden: Rise Of The Dragons                                      | -10%       | $24.99           | $22.49             |
+| Let's School                                                                   | -10%       | $19.99           | $17.99             |
+| Blasphemous 2                                                                  | -10%       | $29.99           | $26.99             |
+| Heavenly Bodies - Cleanup DLC                                                  | -10%       | $7.99            | $7.19              |
+| The Texas Chain Saw Massacre                                                   | -10%       | $39.99           | $35.99             |
+| nan                                                                            | nan        | nan              | nan                |

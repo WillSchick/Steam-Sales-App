@@ -1,6 +1,4 @@
-from bs4 import BeautifulSoup as bs
 import pandas
-import requests
 from datetime import date
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -21,7 +19,7 @@ options = webdriver.ChromeOptions()
 options.headless = True
 
 # Set up webdriver object
-driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager(version='114.0.5735.90').install()))
 driver.get(url)
 
 # Parse games from the get request results (HTTP)
