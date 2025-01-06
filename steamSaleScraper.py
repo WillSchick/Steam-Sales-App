@@ -19,7 +19,7 @@ options = webdriver.ChromeOptions()
 options.headless = True
 
 # Set up webdriver object
-driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager(version='114.0.5735.90').install()))
+driver = webdriver.Chrome()
 driver.get(url)
 
 # Parse games from the get request results (HTTP)
